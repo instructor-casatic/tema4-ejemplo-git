@@ -19,4 +19,8 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-image: radial-gradient(#ffcc3e00, #ffe49b50), url(../images/bananas.png);
+  background-repeat: repeat;
+  image-resolution: 1000px 1000px ;
+  
 }
