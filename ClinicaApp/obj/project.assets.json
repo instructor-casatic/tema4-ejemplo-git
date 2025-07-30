@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\alan.guzman\\.nuget\\packages\\": {}
 =======
     "C:\\Users\\maria.morales\\.nuget\\packages\\": {}
@@ -37,10 +38,14 @@
 =======
     "C:\\Users\\ricardo.godoy\\.nuget\\packages\\": {}
 >>>>>>> pr-9
+=======
+    "C:\\Users\\nelson.marroquin\\.nuget\\packages\\": {}
+>>>>>>> pr-10
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -126,6 +131,16 @@
       "configFilePaths": [
         "C:\\Users\\ricardo.godoy\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> pr-9
+=======
+      "projectUniqueName": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+      "projectName": "ClinicaApp",
+      "projectPath": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+      "packagesPath": "C:\\Users\\nelson.marroquin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nelson.marroquin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-10
       ],
       "originalTargetFrameworks": [
         "net8.0"

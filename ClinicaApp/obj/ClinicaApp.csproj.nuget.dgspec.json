@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
   },
   "projects": {
@@ -134,6 +135,22 @@
         "configFilePaths": [
           "C:\\Users\\ricardo.godoy\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> pr-9
+=======
+    "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "projectName": "ClinicaApp",
+        "projectPath": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "packagesPath": "C:\\Users\\nelson.marroquin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelson.marroquin\\Documents\\CASATIC\\Modulo V\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nelson.marroquin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-10
         ],
         "originalTargetFrameworks": [
           "net8.0"

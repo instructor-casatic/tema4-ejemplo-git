@@ -15,6 +15,7 @@ build_property.RootNamespace = ClinicaApp
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\maria.morales\Documents\Modulo5\Tema4\EjercioGit\tema4-ejemplo-git\ClinicaApp\
 =======
 build_property.ProjectDir = C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\
@@ -34,11 +35,15 @@ build_property.ProjectDir = C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\
 =======
 build_property.ProjectDir = C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\
 >>>>>>> pr-9
+=======
+build_property.ProjectDir = C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\
+>>>>>>> pr-10
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -261,5 +266,39 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ricardo.godoy/Documents/UnidadesCTIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Shared/_Layout.cshtml]
 >>>>>>> pr-9
+=======
+build_property.MSBuildProjectDirectory = C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Home/Odontologia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPZG9udG9sb2dpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nelson.marroquin/Documents/CASATIC/Modulo V/Tema4/EjercicioGit/tema4-ejemplo-git/ClinicaApp/Views/Shared/_Layout.cshtml]
+>>>>>>> pr-10
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bicsbznlpf
