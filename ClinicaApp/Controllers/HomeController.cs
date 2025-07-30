@@ -22,6 +22,10 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Contactanos()
+    {
+        return View();
+    }
 
     public IActionResult Servicios()
     {
