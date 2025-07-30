@@ -15,6 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3df21394d31472f5603107436ea79f7b35e22438")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ef865d9187f14f7ba112b4188a5b22c75d19c2")]
@@ -22,6 +23,9 @@ using System.Reflection;
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9fd258969da5c8512067d051c509487a6dc456")]
 >>>>>>> pr-4
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ef865d9187f14f7ba112b4188a5b22c75d19c2")]
+>>>>>>> pr-5
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

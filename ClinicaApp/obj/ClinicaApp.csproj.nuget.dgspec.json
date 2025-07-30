@@ -3,6 +3,7 @@
   "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
   },
   "projects": {
@@ -49,6 +50,22 @@
         "configFilePaths": [
           "C:\\Users\\german.guillen\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> pr-4
+=======
+    "C:\\Users\\jonathan.ruiz\\Documents\\grupoa\\Modulo 5\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jonathan.ruiz\\Documents\\grupoa\\Modulo 5\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonathan.ruiz\\Documents\\grupoa\\Modulo 5\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "projectName": "ClinicaApp",
+        "projectPath": "C:\\Users\\jonathan.ruiz\\Documents\\grupoa\\Modulo 5\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "packagesPath": "C:\\Users\\jonathan.ruiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonathan.ruiz\\Documents\\grupoa\\Modulo 5\\Tema4\\EjercicioGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonathan.ruiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-5
         ],
         "originalTargetFrameworks": [
           "net8.0"
