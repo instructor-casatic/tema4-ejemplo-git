@@ -6,18 +6,26 @@
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alan.guzman\.nuget\packages\</NuGetPackageFolders>
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\maria.morales\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> pr-2
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\german.guillen\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> pr-4
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <SourceRoot Include="C:\Users\alan.guzman\.nuget\packages\" />
 =======
     <SourceRoot Include="C:\Users\maria.morales\.nuget\packages\" />
 >>>>>>> pr-2
+=======
+    <SourceRoot Include="C:\Users\german.guillen\.nuget\packages\" />
+>>>>>>> pr-4
   </ItemGroup>
 </Project>

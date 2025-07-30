@@ -49,6 +49,7 @@
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\pixel_weave.png))">
       <SourceType>Package</SourceType>
       <SourceId>ClinicaApp</SourceId>
@@ -67,6 +68,8 @@
     </StaticWebAsset>
 =======
 >>>>>>> pr-2
+=======
+>>>>>>> pr-4
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\site.js))">
       <SourceType>Package</SourceType>
       <SourceId>ClinicaApp</SourceId>
