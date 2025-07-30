@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alan.guzman\.nuget\packages\</NuGetPackageFolders>
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\maria.morales\.nuget\packages\</NuGetPackageFolders>
@@ -18,10 +19,14 @@
 =======
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jonathan.ruiz\.nuget\packages\</NuGetPackageFolders>
 >>>>>>> pr-5
+=======
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\tania.vasquez\.nuget\packages\</NuGetPackageFolders>
+>>>>>>> pr-6
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35,5 +40,8 @@
 =======
     <SourceRoot Include="C:\Users\jonathan.ruiz\.nuget\packages\" />
 >>>>>>> pr-5
+=======
+    <SourceRoot Include="C:\Users\tania.vasquez\.nuget\packages\" />
+>>>>>>> pr-6
   </ItemGroup>
 </Project>

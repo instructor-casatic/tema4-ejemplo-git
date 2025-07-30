@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
   },
   "projects": {
@@ -66,6 +67,22 @@
         "configFilePaths": [
           "C:\\Users\\jonathan.ruiz\\AppData\\Roaming\\NuGet\\NuGet.Config"
 >>>>>>> pr-5
+=======
+    "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "projectName": "ClinicaApp",
+        "projectPath": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+        "packagesPath": "C:\\Users\\tania.vasquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tania.vasquez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-6
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -2,6 +2,7 @@
   "Version": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "ujdL737RdTsy8SiLYtZl+m5mp9OFvxZPpICb6UOW7ms=",
 =======
   "Hash": "ajlhkDq9oCi2IMyZMVMMfggzKsqMTXMTJjF42KUBaeE=",
@@ -9,6 +10,9 @@
 =======
   "Hash": "1VnYOmBhzAc9KKQGjhCI6cuvrrS7q0tsPZpwH5aD3Dg=",
 >>>>>>> pr-4
+=======
+  "Hash": "STT0B3o2EfeRo/iAbWR6AuH3qmqbThaCIzMnj9Z4mIs=",
+>>>>>>> pr-6
   "Source": "ClinicaApp",
   "BasePath": "_content/ClinicaApp",
   "Mode": "Default",
@@ -20,6 +24,7 @@
       "Source": "ClinicaApp",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 =======
       "ContentRoot": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
@@ -27,12 +32,16 @@
 =======
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClinicaApp.styles.css",
@@ -51,6 +60,12 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClinicaApp.styles.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "ClinicaApp.styles.css",
       "AssetKind": "All",
@@ -63,6 +78,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClinicaApp.styles.css"
@@ -90,6 +106,15 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
 >>>>>>> pr-4
+=======
+      "OriginalItemSpec": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ClinicaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClinicaApp.bundle.scp.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "ClinicaApp.bundle.scp.css",
       "AssetKind": "All",
@@ -102,6 +127,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClinicaApp.bundle.scp.css"
@@ -129,6 +155,15 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "OriginalItemSpec": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ClinicaApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\css\\site.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -144,6 +179,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\favicon.ico",
@@ -162,6 +198,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\favicon.ico",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -177,6 +219,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\images\\pixel_weave.png",
@@ -214,6 +257,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\js\\site.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -229,6 +278,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -247,6 +297,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -262,6 +318,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
@@ -280,6 +337,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -295,6 +358,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
@@ -313,6 +377,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -328,6 +398,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
@@ -346,6 +417,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -361,6 +438,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
@@ -379,6 +457,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -394,6 +478,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
@@ -412,6 +497,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -427,6 +518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
@@ -445,6 +537,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -460,6 +558,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
@@ -478,6 +577,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,6 +598,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -511,6 +617,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -526,6 +638,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
@@ -544,6 +657,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -559,6 +678,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
@@ -577,6 +697,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -592,6 +718,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
@@ -610,6 +737,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -625,6 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
@@ -643,6 +777,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -658,6 +798,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
@@ -676,6 +817,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -691,6 +838,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
@@ -709,6 +857,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -724,6 +878,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
@@ -742,6 +897,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -757,6 +918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -775,6 +937,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -790,6 +958,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
@@ -808,6 +977,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -823,6 +998,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
@@ -841,6 +1017,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -856,6 +1038,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
@@ -874,6 +1057,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -889,6 +1078,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
@@ -907,6 +1097,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -922,6 +1118,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
@@ -940,6 +1137,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -955,6 +1158,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
@@ -973,6 +1177,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -988,6 +1198,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
@@ -1006,6 +1217,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1021,6 +1238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1039,6 +1257,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1054,6 +1278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
@@ -1072,6 +1297,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1087,6 +1318,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
@@ -1105,6 +1337,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1120,6 +1358,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
@@ -1138,6 +1377,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1153,6 +1398,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
@@ -1171,6 +1417,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1186,6 +1438,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
@@ -1204,6 +1457,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1219,6 +1478,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
@@ -1237,6 +1497,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1252,6 +1518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
@@ -1270,6 +1537,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1285,6 +1558,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -1303,6 +1577,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1318,6 +1598,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
@@ -1336,6 +1617,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1351,6 +1638,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
@@ -1369,6 +1657,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1384,6 +1678,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
@@ -1402,6 +1697,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1417,6 +1718,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
@@ -1435,6 +1737,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1450,6 +1758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
@@ -1468,6 +1777,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1483,6 +1798,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
@@ -1501,6 +1817,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1516,6 +1838,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
@@ -1534,6 +1857,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1549,6 +1878,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -1567,6 +1897,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1582,6 +1918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
@@ -1600,6 +1937,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1615,6 +1958,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
@@ -1633,6 +1977,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1648,6 +1998,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
@@ -1666,6 +2017,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1681,6 +2038,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -1699,6 +2057,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1714,6 +2078,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
@@ -1732,6 +2097,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1747,6 +2118,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
@@ -1765,6 +2137,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1780,6 +2158,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
@@ -1798,6 +2177,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1813,6 +2198,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -1831,6 +2217,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1846,6 +2238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
@@ -1864,6 +2257,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1879,6 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
@@ -1897,6 +2297,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1912,6 +2318,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
@@ -1930,6 +2337,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1945,6 +2358,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
@@ -1963,6 +2377,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1978,6 +2398,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -1996,6 +2417,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2011,6 +2438,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
@@ -2029,6 +2457,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2044,6 +2478,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
@@ -2062,6 +2497,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2077,6 +2518,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
@@ -2095,6 +2537,12 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\german.guillen\\Desktop\\TemaGIT\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 >>>>>>> pr-4
+=======
+      "Identity": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+>>>>>>> pr-6
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

@@ -1,0 +1,99 @@
+@{
+    ViewData["Title"] = "Nuestros Servicios";
+}
+
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .back1 {
+        width: 90%;
+        /* Cambiado de 100vw para dar margen lateral */
+        max-width: 1200px;
+        /* Opcional, controla el ancho en pantallas grandes */
+        margin: 20px auto;
+        /* Margen superior/inferior y centrado horizontal */
+        background-color: #0b3e79;
+        color: aliceblue;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+</style>
+
+<div class="back1">
+    <h1>@ViewData["Title"]</h1>
+</div>
+<h4 class=""><i>Conoce un poco mas sobre nuestros servicios</i></h4>
+
+<p>En el corazón de San Salvador, esta clínica privada de especialidades ofrece un entorno cálido, profesional y humano,
+    dedicado a cuidar de ti y tu familia en cada etapa de la vida. Combinamos atención personalizada con tecnología
+    avanzada para garantizar resultados confiables y una experiencia confortable.</p>
+
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Card 1 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm border-0">
+                <img src="https://centromedicoabc.com/storage/2024/07/Una-joven-doctora-escucha-el-pecho-masculino.webp"
+                    alt="">
+                <div class="card-header bg-light text-center">
+                    <h5 class="mb-0"><i class="bi bi-clipboard2-pulse-fill"></i>Consulta Médica General</h5>
+                </div>
+                <div class="card-body text-center">
+                    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#servicio1">Ver detalles</button>
+                    <div class="collapse mt-3" id="servicio1">
+                        <p>Atención integral, chequeos preventivos y seguimiento clínico personalizado.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm border-0">
+                <img src="https://eresmama.com/wp-content/uploads/2018/07/pediatra-bebe-consulta-enfermera.jpg" alt="">
+                <div class="card-header bg-light text-center">
+                    <h5 class="mb-0"><i class="bi bi-heart-pulse-fill"></i>Pediatría</h5>
+                </div>
+                <div class="card-body text-center">
+                    <button class="btn btn-outline-success" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#servicio2">Ver detalles</button>
+                    <div class="collapse mt-3" id="servicio2">
+                        <p>Control de desarrollo infantil, vacunas y cuidados especiales para los más pequeños.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm border-0">
+                <img src="https://massmedicos.com/wp-content/uploads/2024/10/consulta-ginecologica.webp" alt="">
+                <div class="card-header bg-light text-center">
+                    <h5 class="mb-0"><i class="bi bi-person-standing-dress"></i>Ginecología</h5>
+                </div>
+                <div class="card-body text-center">
+                    <button class="btn btn-outline-danger" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#servicio3">Ver detalles</button>
+                    <div class="collapse mt-3" id="servicio3">
+                        <p>Exámenes preventivos, asesoramiento en salud femenina y tratamientos especializados.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="back1">
+            <h2>💡 Atendemos con Empatía y Excelencia</h2>
+            <p>Cada consulta es una oportunidad para acompañarte con respeto, discreción y compromiso. Contamos con
+                equipos médicos modernos y especialistas con trayectoria, preparados para ofrecerte soluciones efectivas
+                en un ambiente privado y acogedor.</p>
+        </div>
+    </div>
+</div>
