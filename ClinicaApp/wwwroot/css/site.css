@@ -20,3 +20,23 @@ html {
 body {
   margin-bottom: 60px;
 }
+.emoji 
+{
+    position: absolute;
+    font-size: 2rem;
+    pointer-events: none;
+    animation: floatUp 1s ease-out forwards;
+    z-index: 9999;
+}
+
+@keyframes floatUp 
+{
+    0% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+}
