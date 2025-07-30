@@ -18,6 +18,7 @@ using System.Reflection;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3df21394d31472f5603107436ea79f7b35e22438")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ef865d9187f14f7ba112b4188a5b22c75d19c2")]
@@ -34,6 +35,9 @@ using System.Reflection;
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ef865d9187f14f7ba112b4188a5b22c75d19c2")]
 >>>>>>> pr-7
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96a92cde95a9e66ec0e73ee665f90348309ce5ad")]
+>>>>>>> pr-8
 [assembly: System.Reflection.AssemblyProductAttribute("ClinicaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClinicaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

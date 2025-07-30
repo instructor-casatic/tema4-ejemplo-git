@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "/VhqvZHn2ko=",
   "success": true,
   "projectFilePath": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
@@ -27,6 +28,11 @@
   "success": true,
   "projectFilePath": "C:\\Users\\alisson.mejia\\Documents\\CasaTic grupoA\\modulo5\\ejercicicos\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
 >>>>>>> pr-7
+=======
+  "dgSpecHash": "l7IxbbgvQ4Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marjorie.guzman\\Documents\\CASATIC\\Modulo_5\\TEMA_4\\EjercicioGIT\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+>>>>>>> pr-8
   "expectedPackageFiles": [],
   "logs": []
 }

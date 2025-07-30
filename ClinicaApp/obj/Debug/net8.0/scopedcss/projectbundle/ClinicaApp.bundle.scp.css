@@ -9,13 +9,21 @@ a.navbar-brand[b-bicsbznlpf] {
 }
 
 a[b-bicsbznlpf] {
+<<<<<<< HEAD
   color: #0077cc;
+=======
+  color: #090081;
+>>>>>>> pr-8
 }
 
 .btn-primary[b-bicsbznlpf] {
   color: #fff;
   background-color: #1b6ec2;
+<<<<<<< HEAD
   border-color: #1861ac;
+=======
+  border-color: #002b57;
+>>>>>>> pr-8
 }
 
 .nav-pills .nav-link.active[b-bicsbznlpf], .nav-pills .show > .nav-link[b-bicsbznlpf] {
