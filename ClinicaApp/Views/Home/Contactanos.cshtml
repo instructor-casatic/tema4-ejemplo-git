@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fdfdfd;
+        }
+
+        /* NAVBAR */
+        .navbar-banner {
+  width: 100%;
+  height: 250px; 
+  background-image: url(https://img.freepik.com/vector-premium/ilustracion-fondo-dibujos-animados-vector-patron-medico_432586-167.jpg);  
+  background-size: cover;
+  background-position: center;
+  color: rgb(253, 253, 253);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+.navbar-banner::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(133, 132, 132, 0.377); 
+  z-index: 1;
+}
+
+.navbar-content {
+  position: relative;
+  z-index: 2;
+}
+
+.navbar-content h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.navbar-content p {
+  font-size: 18px;
+  margin: 0;
+}
+
+.redes-sociales {
+  text-align: center;         
+  margin-top: 38px;
+}
+.redes-sociales a {
+  
+  margin: 0 30px;
+  color: #4a90e2;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  transition: color 0.3s;
+  size: ;
+}
+
+.redes-sociales a:hover {
+  color: #4dd4fd;
+}
+
+
+
+        /* CONTENIDO */
+        .main-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .form-container {
+            background-color: #dde7fd;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+        }
+
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #444;
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+
+        .form-group button {
+            width: 100%;
+            padding: 12px;
+            background-color: #4ab7e2;
+            border: none;
+            color: white;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .form-group button:hover {
+            background-color: #357ab8;
+        }
+
+        .quote-box {
+            border-left: 4px solid #aacffa;
+            background-color: #e6f0fc;
+            padding: 15px;
+            margin-top: 25px;
+            border-radius: 8px;
+            font-style: italic;
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <div class="navbar-banner">
+  <div class="navbar-content">
+    <h1>tu clinica de confianza</h1>
+    <p>Puedes agendar </p>
+        ¡Tu cita en cualquier momento!</p>
+  </div>
+</div>
+
+    <div class="redes-sociales">
+  <a href="https://wa.me/503xxxxxxx" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp</a>
+  <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
+  <a href="mailto:biblioteca@gmail.com"><i class="fas fa-envelope"></i> Correo</a>
+</div>
+
+
+
+    <!-- FORMULARIO -->
+    <div class="main-content">
+        <div class="form-container">
+            <h2>Contáctanos</h2>
+            <form action="#" method="post">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" id="apellido" name="apellido" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="correo">Correo Electrónico:</label>
+                    <input type="email" id="correo" name="correo" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="mensaje">Mensaje:</label>
+                    <textarea id="mensaje" name="mensaje" placeholder="Escribe tu mensaje aquí..." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit">Enviar</button>
+                </div>
+            </form>
+
+            <div class="quote-box">
+                ¡Tu opinión es importante para nosotros! Déjanos tu mensaje y te responderemos lo antes posible.
+            </div>
+        </div>
+    </div>
+    <iframe 
+  src="https://www.google.com/maps/embed?pb=..." 
+  width="100%" 
+  height="300" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy">
+</iframe>
+
+
+
+
+</body>
+
+</html>
