@@ -20,3 +20,27 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.display-4{
+  color: darkblue;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  background-image: url('../Img/360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg');
+  padding: 15px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+}
+
+a:hover {
+  color: orange; 
+}
+
+a:visited {
+  color: purple;          
+}
