@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "ujdL737RdTsy8SiLYtZl+m5mp9OFvxZPpICb6UOW7ms=",
 =======
   "Hash": "ajlhkDq9oCi2IMyZMVMMfggzKsqMTXMTJjF42KUBaeE=",
@@ -29,6 +30,9 @@
 =======
   "Hash": "UNcApHyXpJ6FxBL6LV4gjVgKHUt0uwCtvTQN2MIVCZs=",
 >>>>>>> pr-10
+=======
+  "Hash": "iIC2nYg6pRl00UZIWBITXgAHFlci0tmSNHBlOz/iJJA=",
+>>>>>>> pr-11
   "Source": "ClinicaApp",
   "BasePath": "_content/ClinicaApp",
   "Mode": "Default",
@@ -394,12 +398,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\images\\pixel_weave.png",
       "SourceId": "ClinicaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
       "BasePath": "_content/ClinicaApp",
       "RelativePath": "images/pixel_weave.png",
+=======
+      "Identity": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+      "BasePath": "_content/ClinicaApp",
+      "RelativePath": "Img/360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg",
+>>>>>>> pr-11
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -410,6 +423,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\images\\pixel_weave.png"
     },
     {
@@ -418,6 +432,11 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
 =======
+=======
+      "OriginalItemSpec": "wwwroot\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg"
+    },
+    {
+>>>>>>> pr-11
       "Identity": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\js\\site.js",
       "SourceId": "ClinicaApp",
       "SourceType": "Discovered",
