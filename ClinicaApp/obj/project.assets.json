@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\brallan.sanchez\\.nuget\\packages\\": {}
+    "C:\\Users\\tania.vasquez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brallan.sanchez\\Documents\\Modulo5\\Tema4\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+      "projectUniqueName": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
       "projectName": "ClinicaApp",
-      "projectPath": "C:\\Users\\brallan.sanchez\\Documents\\Modulo5\\Tema4\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
-      "packagesPath": "C:\\Users\\brallan.sanchez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brallan.sanchez\\Documents\\Modulo5\\Tema4\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
+      "projectPath": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+      "packagesPath": "C:\\Users\\tania.vasquez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tania.vasquez\\Documents\\CasaTic\\Modulo5\\Ejercicio\\tema4-ejemplo-git\\ClinicaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brallan.sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tania.vasquez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

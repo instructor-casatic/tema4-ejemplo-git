@@ -23,6 +23,13 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Servicios()
+    {
+        return View();
+    }
+
+[HttpPost]
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
