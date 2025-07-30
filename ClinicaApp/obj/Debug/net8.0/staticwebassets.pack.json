@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ClinicaApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg",
+      "PackagePath": "staticwebassets\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg"
+    },
+    {
       "Id": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

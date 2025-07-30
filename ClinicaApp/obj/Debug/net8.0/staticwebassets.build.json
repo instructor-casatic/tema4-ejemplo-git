@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ajlhkDq9oCi2IMyZMVMMfggzKsqMTXMTJjF42KUBaeE=",
+  "Hash": "iIC2nYg6pRl00UZIWBITXgAHFlci0tmSNHBlOz/iJJA=",
   "Source": "ClinicaApp",
   "BasePath": "_content/ClinicaApp",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg",
+      "SourceId": "ClinicaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\",
+      "BasePath": "_content/ClinicaApp",
+      "RelativePath": "Img/360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\360_F_595116954_w2RGeypI0WrDLreXrnwVBx2Fbp07xU1X.jpg"
     },
     {
       "Identity": "C:\\Users\\maria.morales\\Documents\\Modulo5\\Tema4\\EjercioGit\\tema4-ejemplo-git\\ClinicaApp\\wwwroot\\js\\site.js",
