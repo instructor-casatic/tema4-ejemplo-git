@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "CeTtVNmkaY4=",
+  "dgSpecHash": "hOVUFTy8CQA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alan.guzman\\Modulo5\\EjGit\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
+  "projectFilePath": "C:\\Users\\brallan.sanchez\\Documents\\Modulo5\\Tema4\\tema4-ejemplo-git\\ClinicaApp\\ClinicaApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\brallan.sanchez\\Documents\\Modulo5\\Tema4\\tema4-ejemplo-git\\ClinicaApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

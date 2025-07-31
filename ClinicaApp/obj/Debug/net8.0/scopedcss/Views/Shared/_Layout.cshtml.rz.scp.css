@@ -7,14 +7,44 @@ a.navbar-brand[b-bicsbznlpf] {
   word-break: break-all;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+a[b-bicsbznlpf] {
+<<<<<<< HEAD
+  color: #0077cc;
+=======
+  color: #090081;
+>>>>>>> pr-8
+=======
+.navbar[b-bicsbznlpf]{
+  background-color: rgb(173, 105, 250) !important;
+}
+
 a[b-bicsbznlpf] {
   color: #0077cc;
+>>>>>>> pr-9
+=======
+a[b-bicsbznlpf] {
+  color: #0077cc;
+>>>>>>> pr-10
 }
 
 .btn-primary[b-bicsbznlpf] {
   color: #fff;
   background-color: #1b6ec2;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   border-color: #1861ac;
+=======
+  border-color: #002b57;
+>>>>>>> pr-8
+=======
+  border-color: #1861ac;
+>>>>>>> pr-9
+=======
+  border-color: #1861ac;
+>>>>>>> pr-10
 }
 
 .nav-pills .nav-link.active[b-bicsbznlpf], .nav-pills .show > .nav-link[b-bicsbznlpf] {
