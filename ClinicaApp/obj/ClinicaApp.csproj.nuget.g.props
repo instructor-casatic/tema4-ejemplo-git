@@ -5,75 +5,11 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alan.guzman\.nuget\packages\</NuGetPackageFolders>
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\maria.morales\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-2
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\german.guillen\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-4
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\jonathan.ruiz\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-5
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\tania.vasquez\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-6
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\alisson.mejia\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-7
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\marjorie.guzman\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-8
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ricardo.godoy\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-9
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\nelson.marroquin\.nuget\packages\</NuGetPackageFolders>
->>>>>>> pr-10
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\brallan.sanchez\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <SourceRoot Include="C:\Users\alan.guzman\.nuget\packages\" />
-=======
-    <SourceRoot Include="C:\Users\maria.morales\.nuget\packages\" />
->>>>>>> pr-2
-=======
-    <SourceRoot Include="C:\Users\german.guillen\.nuget\packages\" />
->>>>>>> pr-4
-=======
-    <SourceRoot Include="C:\Users\jonathan.ruiz\.nuget\packages\" />
->>>>>>> pr-5
-=======
-    <SourceRoot Include="C:\Users\tania.vasquez\.nuget\packages\" />
->>>>>>> pr-6
-=======
-    <SourceRoot Include="C:\Users\alisson.mejia\.nuget\packages\" />
->>>>>>> pr-7
-=======
-    <SourceRoot Include="C:\Users\marjorie.guzman\.nuget\packages\" />
->>>>>>> pr-8
-=======
-    <SourceRoot Include="C:\Users\ricardo.godoy\.nuget\packages\" />
->>>>>>> pr-9
-=======
-    <SourceRoot Include="C:\Users\nelson.marroquin\.nuget\packages\" />
->>>>>>> pr-10
+    <SourceRoot Include="C:\Users\brallan.sanchez\.nuget\packages\" />
   </ItemGroup>
 </Project>

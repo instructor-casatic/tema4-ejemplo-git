@@ -1,10 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\alan.guzman\Modulo5\EjGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\alan.guzman\Modulo5\EjGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\alan.guzman\Modulo5\EjGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -69,7 +63,6 @@ C:\Users\maria.morales\Documents\Modulo5\Tema4\EjercioGit\tema4-ejemplo-git\Clin
 C:\Users\maria.morales\Documents\Modulo5\Tema4\EjercioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\maria.morales\Documents\Modulo5\Tema4\EjercioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-2
-=======
 C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -102,7 +95,6 @@ C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\obj\Debug\n
 C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\german.guillen\Desktop\TemaGIT\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-4
-=======
 C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -135,7 +127,6 @@ C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\Cli
 C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\tania.vasquez\Documents\CasaTic\Modulo5\Ejercicio\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-6
-=======
 C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -168,7 +159,6 @@ C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejempl
 C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\alisson.mejia\Documents\CasaTic grupoA\modulo5\ejercicicos\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-7
-=======
 C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -201,7 +191,6 @@ C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ej
 C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\marjorie.guzman\Documents\CASATIC\Modulo_5\TEMA_4\EjercicioGIT\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-8
-=======
 C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -234,7 +223,6 @@ C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-
 C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\ricardo.godoy\Documents\UnidadesCTIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-9
-=======
 C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\appsettings.json
 C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\bin\Debug\net8.0\ClinicaApp.staticwebassets.runtime.json
@@ -267,3 +255,11 @@ C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ej
 C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.genruntimeconfig.cache
 C:\Users\nelson.marroquin\Documents\CASATIC\Modulo V\Tema4\EjercicioGit\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ref\ClinicaApp.dll
 >>>>>>> pr-10
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.AssemblyInfoInputs.cache
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.AssemblyInfo.cs
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.csproj.CoreCompileInputs.cache
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.RazorAssemblyInfo.cache
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.RazorAssemblyInfo.cs
+C:\Users\brallan.sanchez\Documents\Modulo5\Tema4\tema4-ejemplo-git\ClinicaApp\obj\Debug\net8.0\ClinicaApp.sourcelink.json
